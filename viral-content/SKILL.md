@@ -134,7 +134,7 @@ Doggo108 is the recurring case for adapting this skill to a real brand. When dev
 
 Notice it scores well **without** a dark pattern: the strangeness does the interrupt, the relationship does the emotion, and the CTA can stay a low-friction "tag the friend whose dog would dominate this."
 
-For **other projects** (Giro108, HoneyDAQ, Wikispring, etc.), run Step 0 to capture *their* voice rules and audience first; the six levers are universal, the voice is not.
+For **other less developed projects** start from scratch to capture the voice rules and audience first; the six levers are universal, the voice is not. If you don't have these start with a guided marketing rumination: [payo/skills/rumination/SKILL.md](https://github.com/Payo/skills/tree/main/rumination#:~:text=SKILL.md)
 
 ## Ethics — the line, not a footnote
 
