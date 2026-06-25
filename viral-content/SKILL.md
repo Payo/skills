@@ -1,6 +1,6 @@
 ---
 name: viral-content
-description: Co-develop scroll-stopping social posts and short-video scripts grounded in the psychology of virality. These are curiosity gaps, emotional arousal, Berger's STEPPS, Cialdini's influence principles, pattern interrupts. Drives a conversational loop: angle → hook → script → CTA, one decision at a time, with a recommendation each turn. Use when the user wants to write, brainstorm, script, punch up, or audit social/marketing content (posts, hooks, captions, Reels/TikTok/Shorts scripts, X threads, carousels, LinkedIn), or mentions "going viral", hooks, engagement, or content ideas for a product or brand.
+description: Co-develop scroll-stopping social posts and short-video scripts grounded in the psychology of virality. These are curiosity gaps, emotional arousal, Berger's STEPPS, Cialdini's influence principles, pattern interrupts. Drives a conversational loop; angle → hook → script → CTA, one decision at a time, with a recommendation each turn. Use when the user wants to write, brainstorm, script, punch up, or audit social/marketing content (posts, hooks, captions, Reels/TikTok/Shorts scripts, X threads, carousels, LinkedIn), or mentions "going viral", hooks, engagement, or content ideas for a product or brand.
 ---
 
 # Viral Content
