@@ -1,6 +1,6 @@
 ---
 name: grill-chatbot
-description: A relentless one-question-at-a-time interview to design a multiple-choice chatbot that uses an LLM for wording and Jev for classification and guarding. Covers scope and rules, persona and context, fallbacks and human handoffs, an anonymised test-review-iterate data schema, and privacy/GDPR/security. Writes the decisions to a design doc as it goes. Use when the user wants to design, review or redesign an LLM + Jev chatbot, or invokes /grill-chatbot.
+description: A relentless one-question-at-a-time interview to design a multiple-choice chatbot that uses an LLM for wording and Jev for classification and guarding. Covers scope and rules, persona and context, fallbacks and human handoffs, an anonymised test-review-iterate data schema, privacy/GDPR/security, and a second admin chatbot for setup. Writes the decisions to a design doc as it goes. Use when the user wants to design, review or redesign an LLM + Jev chatbot, or invokes /grill-chatbot.
 disable-model-invocation: true
 ---
 
